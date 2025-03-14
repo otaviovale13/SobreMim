@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #222831;
+  }
+  
+  .bi{
+    transition: ease-in-out 0.3s;
+  }
+  
+  .bi:hover{
+    color: #EEEEEE;
+    cursor: pointer;
+    transform: scale(1.1);
+  }
+
+  .bi-main:hover{
+    color: #F96D00;
+    cursor: pointer;
+    transform: scale(1.1);
+  }
+
+  
