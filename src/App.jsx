@@ -19,7 +19,7 @@ function App() {
         </div>
         <img
           className={styles.fotoMinha}
-          src="https://cdn.discordapp.com/attachments/765290064845471824/1341476935422836747/IMG-20241215-WA0007.jpg?ex=67d27b80&is=67d12a00&hm=4ba58307730355dbeb9e2661a90569659bfb25acb5a930132c3fdc26645acef7&"
+          src={`${import.meta.env.BASE_URL}https://cdn.discordapp.com/attachments/765290064845471824/1341476935422836747/IMG-20241215-WA0007.jpg?ex=67d27b80&is=67d12a00&hm=4ba58307730355dbeb9e2661a90569659bfb25acb5a930132c3fdc26645acef7&`}
           alt=""
         />
       </div>
