@@ -42,7 +42,7 @@ function App() {
             <div className={styles.skill}>
               <img
                 className={styles.skillImg}
-                src="./public/HTML.png"
+                src="/dist/HTML.png"
                 alt=""
                 srcset=""
               />
